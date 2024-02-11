@@ -6,9 +6,9 @@
 
 
 🚀 Getting Started
-Sample Generation
-Open samplegenerator.py.
-Enter a unique ID that is not used.
+<h2>  Sample Generation</h2>
+<h6>Open samplegenerator.py.</h6>
+<h6>Enter a unique ID that is not used.</h6>
 Enter the name of the person.
 It will take some time to create samples for you.
 Model Training
