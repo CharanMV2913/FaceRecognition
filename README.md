@@ -1,7 +1,10 @@
 <h1> Face Recognition System </h1>
+<div>
+  <p>Overview</p>
+ <p> This project is a face recognition system designed to generate samples, train a model, and recognize faces. </p>
+  
+</div>
 
-Overview
-This project is a face recognition system designed to generate samples, train a model, and recognize faces.
 
 🚀 Getting Started
 Sample Generation
