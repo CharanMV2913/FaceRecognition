@@ -7,15 +7,16 @@
 
 🚀 Getting Started
 <h2> -> Sample Generation</h2>
-<h6> 1 Open samplegenerator.py.</h6>
+<h6>1 Open samplegenerator.py.</h6>
 <h6>2 Enter a unique ID that is not used.</h6>
 <h6>3 Enter the name of the person.</h6>
-It will take some time to create samples for you.
-Model Training
-Open modeltrainer.py.
-Run the script.
-Wait for the message "Model trained, Now we can recognize your face."
-Your model is now trained and ready for recognition.
+<sub>It will take some time to create samples for you.</sub>
 
-Face Recognition
-Run facerecognition.py.
+<h2> Model Training</h2>
+<h6>1 Open modeltrainer.py.</h6>
+<h6>2 Run the script.</h6>
+<h6>3 Wait for the message "Model trained, Now we can recognize your face.</h6>"
+<h6>4 Your model is now trained and ready for recognition.</h6>
+
+<h2>Face Recognition</h2>
+<h4>Run facerecognition.py.</h4>
